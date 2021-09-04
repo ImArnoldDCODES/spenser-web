@@ -1,0 +1,121 @@
+
+#header{
+ width: 100%;
+ height: 100%;
+}
+
+#nav{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-left: 250px;
+}
+
+#logo{
+    font-size: 50px;
+    margin-left: 60px;
+}
+
+#nav-text{
+    margin-top: 45px;
+    margin-left: 80px;
+}
+
+
+#nav-text1  {
+    margin-top: 80px;
+    margin-left: 90px;
+}
+
+
+#nav-text2  {
+    margin-left: 60%;
+    margin-top: -400px;
+}
+
+#btn{
+    border: 2px solid black;
+    margin-right: 9px;
+    cursor: pointer;
+}
+
+#btn1{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+#btn2{
+    border: 2px solid black;
+    margin-right: 9px;
+    cursor: pointer;
+   
+}
+
+#btn3{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-right: 200px;
+}
+
+
+#nav-icon{
+    margin-left: 460px;
+   
+}
+
+#hero{
+    width: 75%;
+    margin-left: 120%;
+    margin-top: -70%;
+}
+
+#hero1{
+    width: 50pc;
+    margin-left: 55%;
+    margin-top: -50%;
+}
+
+
+#hero2{
+    width: 44pc;
+    margin-left: -95px;
+    margin-top: 50px;
+}
+
+#social-img{
+  margin-top: 40px;
+  margin-left: 63px;
+  width: 90px;
+  justify-content: space-between;
+  align-items: center;
+  align-items: stretch;
+  justify-content: space-evenly;
+}
+
+
+#alink{
+    font-size: 20px;
+}
+
+footer{
+    margin-top: 100px;
+}
+
+.col h2{
+ font-size: 18px;
+  
+}
+
+.col-1 h2{
+    margin-left: -80px;
+}
+
+.row-1 h2{
+    margin-top: 00px;
+}
